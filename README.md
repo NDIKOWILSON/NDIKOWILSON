@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning bachelor of science in information technology
 - 💞️ I’m looking to collaborate on web design for both front end and back end development
 - 📫 you can reach me via email at wilsonndiko123456789@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: am always ready for any mission
 
 <!---
